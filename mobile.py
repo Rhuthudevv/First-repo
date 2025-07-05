@@ -5,12 +5,12 @@ class Mobile:
      
 
     def show_details(self):
-        print("phone brand",self.brand)
-        print("phone price",self.price)
+        print("company",self.brand)
+        print("price of mobile",self.price)
 
 #creating object
 
-m1=Mobile("apple","80k")
+m1=Mobile("Oppo reno","80k")
 
 
 #showing details
